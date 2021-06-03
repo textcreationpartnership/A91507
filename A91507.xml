@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Passes granted, by the free-born people of England. To severall of the most eminent perjur'd rebels assembled in junto at Westminster. Who are now desirous to transport themselves into New-England, to Amsterdam, or Utopia. A passe for the junto in generall. To all nations of the world greeting. Know you; these traytors of the English nation; ... if we heare you hang them up, we shall not shed a teare. Subscribed, by the long abused nation of England.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91507</idno><idno type="EEBO-CITATION">99864205</idno>
+  <idno type="VID">161722</idno>
+  <idno type="EEBO-PROQUEST">2248552448</idno>
+  
+            <idno type="STC">Wing P659</idno>
+            <idno type="STC">Thomason E443_33</idno>
+            <idno type="STC">ESTC R204742</idno>
+            <idno type="PROQUEST">99864205</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864205e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161722)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Passes granted, by the free-born people of England. To severall of the most eminent perjur'd rebels assembled in junto at Westminster. Who are now desirous to transport themselves into New-England, to Amsterdam, or Utopia. A passe for the junto in generall. To all nations of the world greeting. Know you; these traytors of the English nation; ... if we heare you hang them up, we shall not shed a teare. Subscribed, by the long abused nation of England.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 22th", "1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Roundheads --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161722:1"/>
+            <p>PASSES <hi>Granted,</hi> By the Free-born People of ENGLAND.</p>
+            <p>To severall of the most eminent perjur'd Rebels <hi>Assembled in IƲNTO at</hi> WESTMINSTER.</p>
+            <p>Who are now desirous to transport themselves into <hi>New-England,</hi> to <hi>Amsterdam,</hi> or <hi>Ʋtopia.</hi>
+            </p>
+            <p>A <hi>Passe</hi> for the Iunto in Generall.</p>
+            <p>To all Nations of the World Greeting.</p>
+            <lg>
+               <l>Know you; these Traytors of the <hi>English</hi> Nation;</l>
+               <l>Being compelled to forsake their Station.</l>
+               <l>When in one body were so prevalent,</l>
+               <l>They durst to call themselves a <hi>Parliament.</hi>
+               </l>
+               <l>'Mongst us they sat seaven yeares, in which short season,</l>
+               <l>They acted seaven years, of Blood, and Treason.</l>
+               <l>Pretending to Reform; unto our terror,</l>
+               <l>They countenance'<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Schismes, Factions, and all error.</l>
+               <l>Perswading us, they meant good to our <hi>King,</hi>
+               </l>
+               <l>To make him glorious, and in every thing;</l>
+               <l>To adde unto his luster, sought his Life,</l>
+               <l>Banisht his Children, and his Loyall Wife.</l>
+               <l>While thousands of us, did in Battaile fall,</l>
+               <l>Our goods, our Lands, our Wives, our Children, all.</l>
+               <l>Subject to their Commands, but now we see</l>
+               <l>Our error, and have found their fallacie.</l>
+               <l>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se who escap't the Gallowes, that's their due,</l>
+               <l>We doe permit, for to reside 'mongst you.</l>
+               <l>Looke on them, as they merit; if we heare</l>
+               <l>You hang them up, we shall not shed a teare.</l>
+            </lg>
+            <p>Subscribed, by the long abused Nation of ENGLAND.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161722:2"/>
+            <pb n="1" facs="tcp:161722:2"/>
+            <head>PASSES GRANTED BY THE Free-borne People of England.</head>
+            <head type="sub">To severall the most eminent perjur'd Rebells, assembled in <hi>Iunto</hi> at <hi>Westminster.</hi> Who are now desirous to transport themselves into New <hi>England,</hi> to <hi>Amsterdam,</hi> or <hi>Ʋtopia.</hi>
+            </head>
+            <div type="pass">
+               <head>A Passe for the Right Honourable Rebell, the Lord <hi>Say.</hi>
+               </head>
+               <p>THese are to certifie, to all Nations, Kindreds, and Tongues, Iewes, Gentiles, and Christians, that the bearer hereof▪ hath showne himselfe in all things, a most obstinate Traytor against God, and a most pollitick Rebell against his King, and hath been a most zealous pretender, passing through many fiery trialls, as the thinnesse of his haire can testifie, yet it is at rotten at heart as an Apple Codled in pist straw, and as farre from piety as Loyalty; These are therefore to require you, in the name of us the Free borne People of <hi>England,</hi> to afford this Fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e-Drake, as ample remuneration as his merits require; the People of <hi>England,</hi> leaving it to the discretion of you the Nations of the world, amongst what People soever he shall happen to reside whether you will burne him as an Heretick, or Quarter him as a Traytor, &amp;c.</p>
+            </div>
+            <div type="pass">
+               <head>A Passe for <hi>Harry Martin,</hi> a Member of the <hi>Junto.</hi>
+               </head>
+               <p>THese are to give notice to all men whom it may concerne, to the end they be no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mistaken in the ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ners, or quality of the bearer hereof, let them know, that this is <hi>Englands</hi> Arch-Traytor, even <hi>Harry▪ Martin,</hi> a slav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more salt then is the Baltick Sea, a S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tyre, or a Goa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; a monster su<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as <hi>Affrica</hi> ne're bred, whose
+<pb n="4" facs="tcp:161722:3"/> damn'd projections have ruin'd and undone our glorious King, our once refulgent <hi>Church,</hi> and splendent <hi>State,</hi> who with the ayd of three more like himselfe, deviz'd a Decla<g ref="char:EOLhyphen"/>ration against his <hi>Soveraigne,</hi> wherein the fury indeavoured to make the People conceit, that He was guilty of his Fa<g ref="char:EOLhyphen"/>thers death, and was an enemy to the <hi>Common-wealth,</hi> hee kept a leash of <hi>Curti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ans,</hi> in severall quarters in and about <hi>London,</hi> consuming all the wealth hee shar'd, extorted from the miserable Communalty, on those sophisticated Beauties who in lieu of his golden courtesies, gave him the <hi>French</hi>
+                  <g ref="char:EOLhyphen"/>mans itch, called <hi>Gonorhea passio,</hi> his bones fight with each other in his skin, and his sick breath is more contagious then the blew steame fat Toades evaporate, let none share in his cup, hee hath the deadly m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lady of <hi>France;</hi> these are therefore to advertise all to who<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Salama<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>der</hi> shall repaire, to take strict notice of the premis<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and to use him according to his wor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, &amp;c.</p>
+            </div>
+            <div type="pass">
+               <head>
+                  <hi>Sir</hi> HENRY VANE, <hi>or</hi> Vaine <hi>his Passe.</hi>
+               </head>
+               <p>TO all Nations, to whom this Certificate shall come greeting, know you that wee the Free-borne people of <hi>England,</hi> have licenced this vaine fellow the bearer hereof, to take his progresse through the world, provided that it doe not happen to him, according to <hi>Caines</hi> feare, that whosoever meeteth him kill him. Know therefore, that the bearer hereof is one, then whom, the <hi>Scicilians</hi> found no greater Torment, the emblem of <hi>Ingratitude,</hi> one whom his King once lookt upon with a gracious eye and exalted to dignity, and under whom hee got much wealth, by for<g ref="char:EOLhyphen"/>gerie, perjury, and cunning. And yet this devill in recom<g ref="char:EOLhyphen"/>pence of his Soveraignes love, hath been on all occasions the first in speaking or acting against him; hee is a meer <hi>Wea<g ref="char:EOLhyphen"/>thercock,</hi> not so much as a luke-warme <hi>Christian,</hi> but a very
+<pb n="5" facs="tcp:161722:3"/> politick <hi>Atheist;</hi> These are therefore to require you on his behalfe (if it be so that you are in love with your owne de<g ref="char:EOLhyphen"/>struction) quietly to permit and suffer him to dwel amongst you, and to spend that wealth in quiet, which he hath ille<g ref="char:EOLhyphen"/>gally and devillishly heaped together, out of the Plunde<g ref="char:EOLhyphen"/>red substance of us the Free-borne people of <hi>England;</hi> or o<g ref="char:EOLhyphen"/>therwise, if you be perswaded of a truth of our observati<g ref="char:EOLhyphen"/>on, to hang him up as a perfidious Traytor, &amp;c.</p>
+            </div>
+            <div type="pass">
+               <head>
+                  <hi>A Passe for the most pollitick Lord</hi> HERBERT, <hi>Earle of</hi> Pembroke.</head>
+               <p>WEe the Freeborne people of <hi>England,</hi> as having ex<g ref="char:EOLhyphen"/>perience of this worthy Earle and his wisdome, he now being desirous to travaile in forraigne Countries, the more to take himselfe off from serious studies, the prying into which hath dried him up almost to a <hi>Skelleton;</hi> so that his face is become the perfect resemblance of an Hatchet, doe with all our soules, not unmindfull of his great merit, give unto him this our Passe.</p>
+               <p>Know you then that the bearer hereof, is that dam▪ mee Earl, called the Earl of <hi>Pembroke,</hi> who hath sate this 7 yeares amongst other of his Fraternitie, who call themselves a <hi>Parliament,</hi> in the shape of this figure—O—, during which time, though he had not wit enough to bee a <hi>States<g ref="char:EOLhyphen"/>man;</hi> yet he had wickednesse sufficient to be a Rebell, and to be as forward as the rest in <hi>Voting</hi> against the King, and his loyall Subjects; he had so much sense as on all occasi<g ref="char:EOLhyphen"/>ons to runne with the Wind, turne with the Tide, and vary with the <hi>Camelion;</hi> when the <hi>Presbyters</hi> were prevalent, he swore God dam-him, hee was for Ruling <hi>Elders,</hi> and Pro<g ref="char:EOLhyphen"/>vinciall Assemblies; when the <hi>Independents</hi> got into the saddle, he swore wounds and blood, <hi>Independency</hi> was the best
+<pb n="4" facs="tcp:161722:4"/> and though the foole had never so much learning as to read a Chapter in the <hi>Bible▪</hi> nor ever attained to so much know<g ref="char:EOLhyphen"/>ledge, as to conster a lesson out of <hi>Cato;</hi> yet he had the im<g ref="char:EOLhyphen"/>pudence and arrogance as to except the <hi>Ʋice-Chancelours</hi> place of <hi>Oxford,</hi> the well-spring of Learning, and the seat of the Muses; where to shew that his Ideotishp had arived to the highest perfection of folly, he turned out all the able Pil<g ref="char:EOLhyphen"/>lars, and Moderators of that University, and placed in their stead, a sort of Sniveling Ignorant Factionists, to the ruine of that renowned Academie; These are therefore to desire you not to be mistaken in the man, whose manners we ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in part discovered, but to use him with such honour as he deserves, &amp;c.</p>
+            </div>
+            <div type="pass">
+               <head>Serjant <hi>Wild</hi> his Passe.</head>
+               <p>BE it knowne unto all Nations, wheresoever the bearer h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of shal come, that this Passe is granted by us the Free borne People of <hi>England,</hi> with much reluctancie, we rather having desired to have taken this <hi>Wild</hi> and cruell Boare in our toiles, and to have offered him up in sacrifice to <hi>Astera,</hi> but that it might not be accomp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ished, we have afforded him this Certificate under our hands and Seales.</p>
+               <p>Know then that this bearer, is one of the most perfidi<g ref="char:EOLhyphen"/>ous, treacherous, bloody, implacable Trayto<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, that ever be<g ref="char:EOLhyphen"/>held the Sunne; this is the envious Horse-leach that suckt the blood of that Loyall Martyr, Captaine BV<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>LEIGH, who was hangd, drawn and quartered as a Traytor, for attempting to rescue his Soveraigne Lord and King, out of Prison, where he was shut up in more privacie then an Anchorite, and used more rigorously, then a Patricide, dooming him to die contrary to the expresse Law of the Land, and passing his sentence with mocks and scornes, and that you may be the
+<pb n="5" facs="tcp:161722:4"/> better informed of the worth of this bearer, take notice that this is the hell-hound, whom the <hi>Iunto</hi> at <hi>Westminster</hi> made their chiefe Agent on all occasions, to prosecute to the death, all such Loyall Subjects who either worshiped God, in his true Religion or gave honour to their Prince, according to their duty; this is that <hi>Caniball,</hi> whom the Traytors at <hi>Westminster,</hi> allot nothing for food but humane flesh, who lately was sent downe to <hi>Canterbury,</hi> and by their counterfeit Seale authorized to trie for their lives; divers honest men of the City of <hi>Canterbury</hi> (that assembled them selves together, more in merriment, then for any designe) by a Commissioner of Oyer and Terminer, where with strong arguments, not taken from Law, but wrested, he in<g ref="char:EOLhyphen"/>deavoured to bereave those innocent men of their lives, had not the Iury been indewed with more conscience then this Iew and so brought in their Verdict as <hi>Ignoramus,</hi> these are therefote to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uire you to yeild him as much accommo<g ref="char:EOLhyphen"/>dation, as his deserts require, &amp;c.</p>
+            </div>
+            <div type="pass">
+               <head>
+                  <hi>The High and Mighty, King</hi> Oliver, <hi>his Passe.</hi>
+               </head>
+               <p>ALthough it be without president, that Subjects should give a Passe to their King, yet it happens to be so with us now, and with our King of clouts; and therefore to all Nations, kindr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds, and tongues greeting.</p>
+               <p>These are to certifie you, that this swabberd, this Cop<g ref="char:EOLhyphen"/>per-nose cut-throat, alias <hi>Nol Crumwell,</hi> is one of the most desperate and seditious, incorrigible and bloody Traytors, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat ever survived, by whose single violence, we have been ex<g ref="char:EOLhyphen"/>posed to all miseries and calamities, so great and so griev<g ref="char:EOLhyphen"/>ous, that never any Nation, tasted of the like; this trim <hi>Prodegia,</hi> whose heart deserves to be splin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erd with needles, and whose▪ meat ought to be str<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wed ore with Serpents
+<pb n="6" facs="tcp:161722:5"/> teeth, hath been the ring-leader of all the rout at <hi>Westminster,</hi> the whole rable hearkning to his pernicious advice, with as much superstitious zeale, as ever the Heathens of old to their Oracles; he had once hoped to have reduced all things to a parity, but his Levellers lost their aime, and were whipt running, and <hi>Nol,</hi> being to great a Fly to be caught in that Cobweb, scapt <hi>Scot-free;</hi> and that you may be the more induced, to accommodate this Meteor, with all love and respect; take notice, that the glazing, furbushing, and quality of his Nose is such, that if you hang him up on a Gibbet, in some te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebrous place, where many wayes meet, and Travailers may easily wander out of the way, the reful<g ref="char:EOLhyphen"/>gencie of his Nose, will give more light then a Beacon, and which will be more advantagious; no Beare, Wolfe, or any other ravenous, or truculent beast, will dare to come within twenty miles of him, and that you may not faile to use him courteously as aforesaid; take notice that he is a perjur'd Villaine, who once made Protestation, before the worlds eye, and the eyes of men, that he would doe his utmost to restore his King to his Just Power and Greatnesse, as before he and his Rebellious complices, had devested him, and stripped him of all, and yet afterwards broke his faith, and persecuted him with deadly spight, and indeavouring by all wayes and meanes, to take his Life, and in his fall to roote out Monarchicall Government; these are therefore to desire you to use this Regicide, carefully.</p>
+               <closer>
+                  <signed>Subscribed by us, the Free-borne (yet inslaved People of <hi>England</hi>) now upon the point to break our yoake, redeeme our King, to regaine our Church, and to recover our lost Lawes.</signed>
+               </closer>
+            </div>
+            <epigraph>
+               <q>
+                  <lg>
+                     <head>(To the Rebells.)</head>
+                     <l>Your Passes are all made▪ n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w when you please,</l>
+                     <l>You ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in winged v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ssels, plow the Seat.</l>
+                     <l>Hast, hast for <hi>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ericho</hi> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>se walls upreare;</l>
+                     <l>For we are weary, of your working here.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
